@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://formatting-dressed-included-belief.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://reflect-salem-guardian-acknowledge.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-26 00:43:24 UTC
+Created   : 2026-08-26 05:33:19 UTC
 =======================================================
