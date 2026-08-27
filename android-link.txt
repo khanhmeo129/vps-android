@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lcd-diabetes-mainly-wayne.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://growing-airplane-strange-clearing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-27 05:31:30 UTC
+Created   : 2026-08-27 20:14:06 UTC
 =======================================================
