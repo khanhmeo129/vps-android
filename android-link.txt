@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bite-repairs-ozone-found.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://personality-violin-shake-dealing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-09 09:28:05 UTC
+Created   : 2026-09-09 14:12:09 UTC
 =======================================================
